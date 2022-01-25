@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/googleapis/python-access-approval/compare/v1.4.1...v1.5.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#156](https://github.com/googleapis/python-access-approval/issues/156)) ([5fcfe00](https://github.com/googleapis/python-access-approval/commit/5fcfe00982907f9426cdc3cf77f1f4f2a3206720))
+
 ### [1.4.1](https://www.github.com/googleapis/python-access-approval/compare/v1.4.0...v1.4.1) (2021-11-01)
 
 
